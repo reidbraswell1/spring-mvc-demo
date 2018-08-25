@@ -23,6 +23,9 @@
 .underline {
     text-decoration: underline;
 }
+.bold {
+    font-weight: bold;
+}
 /*
 input::placeholder {
     font-family: 'Roboto', sans-serif;

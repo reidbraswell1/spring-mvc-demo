@@ -14,7 +14,7 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     </head>
     <body class="background">
-        <h1 class="roboto center">Spring MVC Demo - Home Page</h1>
+        <h1 class="roboto center bold">Spring MVC Demo - Home Page</h1>
         <br>
         <br>
         <!-- Wrapper for slides -->
