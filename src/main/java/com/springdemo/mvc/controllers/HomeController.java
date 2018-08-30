@@ -19,8 +19,13 @@ public class HomeController {
     // Define a controller method
     // Define request mapping
     @RequestMapping("/")
-    public String showMethod() {
+    public String showMenu() {
         System.out.println("HomeController: Inside Home Controller");
         return "main-menu";
+    }
+    @RequestMapping("/Notes")
+    public String showNotes() {
+        System.out.println("HomeController: Notes Mapping");
+        return "notes";
     }
 }
