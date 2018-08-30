@@ -72,7 +72,7 @@
                             public String showForm(Model model)<hr>
                             @RequestMapping("/processForm")<br>
                             public String processForm(<br>
-                            @Valid @ModelAttribute("customer") Customer customer,<br>
+                            @Valid @ModelAttribute("student") Customer customer,<br>
                             BindingResult bindingResult)</td>
                     </tr>
                 </tbody>
@@ -109,7 +109,6 @@
                 </tbody>
             </table>
         </div>
-
     </body>
 </html>
 

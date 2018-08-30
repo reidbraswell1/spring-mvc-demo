@@ -62,6 +62,11 @@
                 <li>
                     <a href="customer/showForm"><span style="color:black;">Customer Form</span></a>
                 </li>
+                <br>
+                <br>
+                <li>
+                    <a href="Notes"><span style="color:black;">Notes</span></a>
+                </li>
             </ol>
         </div>
     </body>
